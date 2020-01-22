@@ -1,2 +1,2 @@
 # README #
-git commit -m Hello World. This is an example commit.
+Hello World. This is an example commit in my first repository!
